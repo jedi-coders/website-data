@@ -33,9 +33,10 @@
             "percent": 0.0
         }
     ],
-    "data": [
+    "reviews": [
         {
             "author_name": "Jaydip Guha",
+            "author_image_url": "https://lh3.googleusercontent.com/a-/ALV-UjX5LKgETuRBv7GrPdZrn4zZu6LABJn-n7cWDVb82sryFkIkYjTd=s120-c-rp-mo-ba3-br100",
             "text": "Nick has taken up teaching and assisting activities for my two sons studying AI ( Masters and Bachelor levels) at Edinburgh and King\u2019s college London. Both my sons are very pleased with the quality of help they are receiving from him. He always goes the extra mile to help. We are happy to have him.",
             "url": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tzNWFWTnVSbmxITVY4dFJUSk9TMnh6YlRWUlVVRRAB!2m1!1s0x0:0x540abb3acdb54f09!3m1!1s2@1:CAIQACodChtycF9oOks5aVNuRnlHMV8tRTJOS2xzbTVRUUE%7C%7C?hl=en",
             "rating": 5,
@@ -46,6 +47,7 @@
         },
         {
             "author_name": "Max Thorpe",
+            "author_image_url": "https://lh3.googleusercontent.com/a/ACg8ocJJsanA7TUwokbFX4WRZC8CLI3jLiWNxeavPBSYAT8mbC3W3Q=s120-c-rp-mo-br100",
             "text": "I\u2019m new to programming, and my Python tutor makes learning easy and fun. He explains things clearly and is very patient. I\u2019m learning a lot\u00a0each\u00a0lesson!",
             "url": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xReU4wcHhTSFF4U0doMFozVlJkV1ZzV21KdVduYxAB!2m1!1s0x0:0x540abb3acdb54f09!3m1!1s2@1:CAIQACodChtycF9oOlQyN0pxSHQxSGh0Z3VRdWVsWmJuWnc%7C%7C?hl=en",
             "rating": 5,
@@ -56,6 +58,7 @@
         },
         {
             "author_name": "J Chig",
+            "author_image_url": "https://lh3.googleusercontent.com/a/ACg8ocIQmmfCnl5YXxgVKmnf99joXwTB8mSE8fP9OIqYqGG0ycA-nw=s120-c-rp-mo-br100",
             "text": "Nick has been an incredible guide on my Python journey\u2014patient, knowledgeable, and always ready with practical advice. Whether I\u2019m stuck on a tricky concept or just need a nudge in the right direction, he\u2019s there with clarity and encouragement. Learning with Nick has made coding feel less daunting and a lot more fun. Couldn\u2019t ask for a better mentor!",
             "url": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25aT05FWk5hblp6TUY5aVVrcE1RMVU0U25aUk1FRRAB!2m1!1s0x0:0x540abb3acdb54f09!3m1!1s2@1:CAIQACodChtycF9oOnZONEZNanZzMF9iUkpMQ1U4SnZRMEE%7C%7C?hl=en",
             "rating": 5,
@@ -66,6 +69,7 @@
         },
         {
             "author_name": "Esther",
+            "author_image_url": "https://lh3.googleusercontent.com/a/ACg8ocLM_SX76kdZeptoOusat8c4bXvbBAJ4ukPGslS7laJlnv6fEw=s120-c-rp-mo-br100",
             "text": "Nick has been a great tutor for my son who\u2019s a BSc undergraduate. Extremely supportive and has improved his confidence enormously.",
             "url": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2twaE9VOHlNa1JXUVd0MVJVbGhNMEZDWW5GaldVRRAB!2m1!1s0x0:0x540abb3acdb54f09!3m1!1s2@1:CAIQACodChtycF9oOkphOU8yMkRWQWt1RUlhM0FCYnFjWUE%7C0cXbOpM_CWk%7C?hl=en",
             "rating": 5,
@@ -76,6 +80,7 @@
         },
         {
             "author_name": "Christopher Brunton",
+            "author_image_url": "https://lh3.googleusercontent.com/a/ACg8ocLv8z4hekAaJLF1S5Uu1OlDD33tdKCyayitQ-uayI917wuSV1I=s120-c-rp-mo-br100",
             "text": "Jedi Coders, has been extremely helpful in helping me on my coding journey, he breaks it down step by step and has great patience and a sense of humour. For anyone looking to learn the art of coding I would highly recommend his tutorship",
             "url": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pObmJHSjJXVzlhWWtoSVVGaHJWbTUzTW1OaFJGRRAB!2m1!1s0x0:0x540abb3acdb54f09!3m1!1s2@1:CAIQACodChtycF9oOjNnbGJ2WW9aYkhIUFhrVm53MmNhRFE%7C0cJPPsrdpRj%7C?hl=en",
             "rating": 5,
@@ -86,6 +91,7 @@
         },
         {
             "author_name": "Neil Anderson",
+            "author_image_url": "https://lh3.googleusercontent.com/a/ACg8ocK4SSbTDpzjQ7wjCdJHuEf3nge7pdfCvDilNF_z2i5pOpVOkw=s120-c-rp-mo-br100",
             "text": "Nick is an excellent tutor \u2014 clear explanations and practical. Helped me make real progress with programming.",
             "url": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VLTzN6cFdveDhPUDBBRRAB!2m1!1s0x0:0x540abb3acdb54f09!3m1!1s2@1:CIHM0ogKEKO3zpWox8OP0AE%7CCgwIv7S9wQYQ4IHLigE%7C?hl=en",
             "rating": 5,
@@ -96,6 +102,7 @@
         },
         {
             "author_name": "Chad Barrett",
+            "author_image_url": "https://lh3.googleusercontent.com/a/ACg8ocKq2o_v3fv3-muGln-5bNf-RlJXkmowW_0wQve_gF01ES7VQQ=s120-c-rp-mo-br100",
             "text": "Understanding and candid approach for improving your data skills",
             "url": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnTUNnenJ6cXV3RRAB!2m1!1s0x0:0x540abb3acdb54f09!3m1!1s2@1:CIHM0ogKEICAgMCgzrzquwE%7CCgsIz_rLvQYQ2KTmXQ%7C?hl=en",
             "rating": 5,
@@ -106,6 +113,7 @@
         },
         {
             "author_name": "Sky Blue",
+            "author_image_url": "https://lh3.googleusercontent.com/a/ACg8ocL7TF58tdZyYYWvAGvYgSYJbQqONhfCjbF5MdgiJ5wN45vWgw=s120-c-rp-mo-br100",
             "text": "Highly recommend! Private lessons are helping fill in the gaps and challenge my child to explore new skills. The focus is not only to code something that works but also to think ahead and write code efficiently and readably.",
             "url": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnTURBc2VLX3lnRRAB!2m1!1s0x0:0x540abb3acdb54f09!3m1!1s2@1:CIHM0ogKEICAgMDAseK_ygE%7CCgwI--zCvQYQqMmhxQE%7C?hl=en",
             "rating": 5,
@@ -116,6 +124,7 @@
         },
         {
             "author_name": "Balu S",
+            "author_image_url": "https://lh3.googleusercontent.com/a-/ALV-UjVjZQ5pJBw9F3t8kZjJi30WM9ixpeU8vHiLhQUIep5Q6SWYRYHN=s120-c-rp-mo-br100",
             "text": "The tutoring sessions were amazing with Jedicoders! Nick is very knowledgeable, approachable, and patient. My son has been attending classes for a while, and Nick is consistently helping & encouraging my son in coding skills. I highly recommend him!",
             "url": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURfbTdPUEtnEAE!2m1!1s0x0:0x540abb3acdb54f09!3m1!1s2@1:CIHM0ogKEICAgID_m7OPKg%7CCgwIyKPdvAYQwK-TnwI%7C?hl=en",
             "rating": 5,
@@ -127,6 +136,7 @@
         },
         {
             "author_name": "Erums",
+            "author_image_url": "https://lh3.googleusercontent.com/a/ACg8ocLJye7884_dIziaga4__MVmLNmv8sQALefQpd9EtBcLwqFl6i4=s120-c-rp-mo-br100",
             "text": "My son didnt have an interest in computer science, but ever since he\u2019s been taking classes from Nick he wants to pick it for GCSE and has an interest in it.",
             "url": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURfd3ZXRXZRRRAB!2m1!1s0x0:0x540abb3acdb54f09!3m1!1s2@1:CIHM0ogKEICAgID_wvWEvQE%7CCgwI56HFvAYQ4I2lvwE%7C?hl=en",
             "rating": 5,
@@ -137,6 +147,7 @@
         },
         {
             "author_name": "Harry",
+            "author_image_url": "https://lh3.googleusercontent.com/a-/ALV-UjW1chXxB5Jux61jBFx1pCc-PasivNgg_54zsaaH2x_og_sp92t1ZA=s120-c-rp-mo-br100",
             "text": "Nikolay was extremely helpful, advising me on how to format my CV and GitHub as well as giving me direction on how to tackle data structures and algorithms problems that I was struggling with.",
             "url": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURfd0tLaGh3RRAB!2m1!1s0x0:0x540abb3acdb54f09!3m1!1s2@1:CIHM0ogKEICAgID_wKKhhwE%7CCgsIz725vAYQuMuKZg%7C?hl=en",
             "rating": 5,
@@ -147,6 +158,7 @@
         },
         {
             "author_name": "Paul Faisant",
+            "author_image_url": "https://lh3.googleusercontent.com/a-/ALV-UjU-Dn8nYZ3XSOLSDlrZK-4SNTiYk3jrCWXEl-2ugzbWvL0lOfgZUg=s120-c-rp-mo-ba4-br100",
             "text": "My 9-year-old son has been attending classes for a while, and Nick consistently makes them engaging and enjoyable. I highly recommend him!",
             "url": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURmOXFfMlpBEAE!2m1!1s0x0:0x540abb3acdb54f09!3m1!1s2@1:CIHM0ogKEICAgIDf9q_2ZA%7CCgwI8LbvuwYQ8OPO5QI%7C?hl=en",
             "rating": 5,
@@ -157,6 +169,7 @@
         },
         {
             "author_name": "Demo",
+            "author_image_url": "https://lh3.googleusercontent.com/a-/ALV-UjWMHQS-xXEr7hVC1tOHDRLJqA0lq9BVFTCEgezOpgsDShWmpkIv=s120-c-rp-mo-br100",
             "text": "kept me engaged in our lesson and did a good job explaining the stuff that I needed help with",
             "url": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNQaHFfa1JREAE!2m1!1s0x0:0x540abb3acdb54f09!3m1!1s2@1:CIHM0ogKEICAgICPhq_kRQ%7CCgwI5MuIugYQqLje-AE%7C?hl=en",
             "rating": 5,
@@ -167,6 +180,7 @@
         },
         {
             "author_name": "Tapiwanashe Mutetwa",
+            "author_image_url": "https://lh3.googleusercontent.com/a-/ALV-UjXvqOk1uaZ2xnLQRKUi9jfBSB5M2w4zteJ8asNywgK_YFKrpwzF=s120-c-rp-mo-br100",
             "text": "Christian Brown is incredible! He has definitely helped me grow my knowledge and he is a total game-changer for anyone who needs tutoring. He is a fantastic resource for anyone willing to enhance their learning experience!",
             "url": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUM3MzRtcU5REAE!2m1!1s0x0:0x540abb3acdb54f09!3m1!1s2@1:CIHM0ogKEICAgIC734mqNQ%7CCgsIkeWNtgYQuObmbg%7C?hl=en",
             "rating": 5,
@@ -177,6 +191,7 @@
         },
         {
             "author_name": "Seyyid Saritiken",
+            "author_image_url": "https://lh3.googleusercontent.com/a/ACg8ocK-4HXRUjmu97SnSfiIZbgTQN9H1javS7nlVIJdKb264F0f=s120-c-rp-mo-br100",
             "text": "Very good and professional tutoring, can only recommend",
             "url": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURicTZQUmJBEAE!2m1!1s0x0:0x540abb3acdb54f09!3m1!1s2@1:CIHM0ogKEICAgIDbq6PRbA%7CCgsI9M7YtQYQuJTgCg%7C?hl=en",
             "rating": 4,
@@ -187,6 +202,7 @@
         },
         {
             "author_name": "Bevan Agyemang",
+            "author_image_url": "https://lh3.googleusercontent.com/a/ACg8ocLkz5QZSFodbfZkGZZN7UA5oQroE0oPHLBh72PDjG_dvAWTzw=s120-c-rp-mo-br100",
             "text": "Perfect! Nick is a great tutor taking his time to nurture my development. He is also flexible and was keen to work around my schedule. Perfect tutor",
             "url": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURiM2VfR1BBEAE!2m1!1s0x0:0x540abb3acdb54f09!3m1!1s2@1:CIHM0ogKEICAgIDb3e_GPA%7CCgwImpDTtQYQ2Kr4gAE%7C?hl=en",
             "rating": 5,
@@ -197,6 +213,7 @@
         },
         {
             "author_name": "Ali",
+            "author_image_url": "https://lh3.googleusercontent.com/a/ACg8ocJPaZnnyqaFANHUQJ_sD5uo89YnJYx0kEswZTNrmaX9UvfAaw=s120-c-rp-mo-ba2-br100",
             "text": "very friendly , knowledgeable and helpful .\nmany thanks",
             "url": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNMdmJxVy13RRAB!2m1!1s0x0:0x540abb3acdb54f09!3m1!1s2@1:CIHM0ogKEICAgICLvbqW-wE%7CCgwIlYLbswYQ4KSW-QE%7C?hl=en",
             "rating": 5,
@@ -207,6 +224,7 @@
         },
         {
             "author_name": "Ben Stodolnic",
+            "author_image_url": "https://lh3.googleusercontent.com/a-/ALV-UjVBkxGBwCSCUsyb88QAxuM_mhR0uVIkccaikGAZ2b2QU_823JRs=s120-c-rp-mo-br100",
             "text": "Great tutor! Very good at simplifying complex concepts.",
             "url": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNMb19fVXJBRRAB!2m1!1s0x0:0x540abb3acdb54f09!3m1!1s2@1:CIHM0ogKEICAgICLo__UrAE%7CCgsI3rXcswYQ-LKqZQ%7C?hl=en",
             "rating": 5,
@@ -217,6 +235,7 @@
         },
         {
             "author_name": "Morgan Richards",
+            "author_image_url": "https://lh3.googleusercontent.com/a/ACg8ocI6eKdoKonA5oa5pQzT2soUzRgT4_pSsj5ltvn7RcTNaB5l=s120-c-rp-mo-br100",
             "text": "Nick really helped me with a project. He was excellent, efficient and very helpful when tutoring.",
             "url": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNqN2VXOU13EAE!2m1!1s0x0:0x540abb3acdb54f09!3m1!1s2@1:CIHM0ogKEICAgICj7eW9Mw%7CCgwIpvKksQYQsIa-1QE%7C?hl=en",
             "rating": 5,
@@ -227,6 +246,7 @@
         },
         {
             "author_name": "Sarah Nakajima",
+            "author_image_url": "https://lh3.googleusercontent.com/a-/ALV-UjVDRmZ66PUmmsAMzBT0M96k9Cp8wUO44IwEZ0knXsrM86fUDDnw=s120-c-rp-mo-br100",
             "text": "Dr. Nick and Christian Brown have been exceptionally supportive throughout my academic journey, which has been extremely helpful and important to me. They offered insightful career advices, and they guided me through the fundamentals to get started with my dissertation.",
             "url": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNEMGJXVGlRRRAB!2m1!1s0x0:0x540abb3acdb54f09!3m1!1s2@1:CIHM0ogKEICAgICD0bWTiQE%7CCgwIsPqasAYQkMmj3gI%7C?hl=en",
             "rating": 5,
@@ -238,6 +258,7 @@
         },
         {
             "author_name": "Liam Munro",
+            "author_image_url": "https://lh3.googleusercontent.com/a/ACg8ocIaV1jK_4Drs-gWiiVYAnb3bvu6Dytqp6UAHPEG2xA_xrMP=s120-c-rp-mo-br100",
             "text": "Nikolay\u2019s tuition has enabled me to develop an understanding of the fundamental principles within Python. He provided me with the resources to develop my coding skill further and was ever present to help if I ever got stuck or confused.\nHis commitment to his students is unparalleled. I cannot recommend him highly enough if you are looking to learn to code.",
             "url": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQ5ak9TSk53EAE!2m1!1s0x0:0x540abb3acdb54f09!3m1!1s2@1:CIHM0ogKEICAgID9jOSJNw%7CCgsInc7IrwYQkNrxVg%7C?hl=en",
             "rating": 5,
@@ -248,6 +269,7 @@
         },
         {
             "author_name": "Z Z",
+            "author_image_url": "https://lh3.googleusercontent.com/a/ACg8ocJvjt2FtYyUVOw-bkKYnxUDxEzB7a7GrzDltrLK3W2Eo0Tp4Q=s120-c-rp-mo-br100",
             "text": "Thoroughly professional",
             "url": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQ5bUxpVmxRRRAB!2m1!1s0x0:0x540abb3acdb54f09!3m1!1s2@1:CIHM0ogKEICAgID9mLiVlQE%7CCgwIrqzDrwYQ-NLQswI%7C?hl=en",
             "rating": 5,
@@ -258,6 +280,7 @@
         },
         {
             "author_name": "Ammar Bakhaya",
+            "author_image_url": "https://lh3.googleusercontent.com/a-/ALV-UjXdb_RRAYJZ0tlJVmoUVC-8xfqvhdZ7wMZ1J3UphqDu7GudLoo=s120-c-rp-mo-br100",
             "text": "Nikolay is the best programming expert that we worked with ever. He is extremely knowledgeable, talented, intelligent and very professional in his field. We can\u2019t thank you enough for all your hard work and support.",
             "url": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNkZzd2OXdRRRAB!2m1!1s0x0:0x540abb3acdb54f09!3m1!1s2@1:CIHM0ogKEICAgICdg7v9wQE%7CCgwIwYPErgYQ4N2CoAM%7C?hl=en",
             "rating": 5,
@@ -268,6 +291,7 @@
         },
         {
             "author_name": "ARHAAN SHAIKH",
+            "author_image_url": "https://lh3.googleusercontent.com/a/ACg8ocLtuHfuK4Mcs6hreoP-4afM3YSJcdyohpeDLG-6KWRtjp3OWg=s120-c-rp-mo-br100",
             "text": "Working with Nickolay to enhance my CV was a game-changer. His attention to detail and personalized approach resulted in a document that truly represents my professional journey. Nickolay's strategic edits and dedication to excellence make him stand out. I highly recommend his services for anyone seeking a CV that goes beyond expectations.",
             "url": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQxNEt2NU1nEAE!2m1!1s0x0:0x540abb3acdb54f09!3m1!1s2@1:CIHM0ogKEICAgID14Kv5Mg%7CCgwIv4ncrAYQuLOw1gI%7C?hl=en",
             "rating": 5,
@@ -278,6 +302,7 @@
         },
         {
             "author_name": "janine small",
+            "author_image_url": "https://lh3.googleusercontent.com/a/ACg8ocL_J49OTuMbzIVwtuLfJqZ-1pqnJNaFgJFFM4oplv4BWERtrw=s120-c-rp-mo-br100",
             "text": "Jedi Coders really gets my daughter thinking in a fun and challenging way. She's always feeling sure of herself about something new she\u2019s picked up.",
             "url": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURWNk1QVmNnEAE!2m1!1s0x0:0x540abb3acdb54f09!3m1!1s2@1:CIHM0ogKEICAgIDV6MPVcg%7CCgwIz5rYqwYQ4NiGvgI%7C?hl=en",
             "rating": 5,
@@ -288,6 +313,7 @@
         },
         {
             "author_name": "\u041c\u0430\u0440\u0438\u044f \u041d\u0438\u043a\u043e\u043b\u043e\u0432\u0430",
+            "author_image_url": "https://lh3.googleusercontent.com/a/ACg8ocJBjpbfeM-0IG2ZEXgq9e5rmNeBntroSzQE-VwWdPOEzJyhXw=s120-c-rp-mo-br100",
             "text": "Such an amazing activity for children! It's both challenging and teaches a valuable life skill. I highly recommend it!",
             "url": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNWNmFmR19BRRAB!2m1!1s0x0:0x540abb3acdb54f09!3m1!1s2@1:CIHM0ogKEICAgICV6afG_AE%7CCgsI65DKqwYQkPvvUw%7C?hl=en",
             "rating": 5,
@@ -298,6 +324,7 @@
         },
         {
             "author_name": "Nicola Coad",
+            "author_image_url": "https://lh3.googleusercontent.com/a/ACg8ocIwDT_JHrL_ns76QBVEyLsEv38GHdbyRbfie8C5lqccTaKSJw=s120-c-rp-mo-br100",
             "text": "Jedi coders make learning how to code fun and interesting. When staring my coding lessons I was a complete beginner with no previous coding experience, now I am completing a masters degree in data science. With their help I have been able to understand and excel at my course.\n\nI would recommend them to any one of any age!",
             "url": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNscS1DS19nRRAB!2m1!1s0x0:0x540abb3acdb54f09!3m1!1s2@1:CIHM0ogKEICAgIClq-CK_gE%7CCgwI4o-RqwYQgKrWrwE%7C?hl=en",
             "rating": 5,
@@ -308,6 +335,7 @@
         },
         {
             "author_name": "Yang Tian",
+            "author_image_url": "https://lh3.googleusercontent.com/a/ACg8ocJA8naBjVfKZ9HZ2VoBmMdShmsnhg4Zwn_NWeIjzFjZBJL7ag=s120-c-rp-mo-br100",
             "text": "Nick is an amazing tutor, the knowledge provided is always enlightening and helpful! I highly recommend!",
             "url": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQ1NFlqZHNBRRAB!2m1!1s0x0:0x540abb3acdb54f09!3m1!1s2@1:CIHM0ogKEICAgID54YjdsAE%7CCgsI-M_kqQYQ6N__Ow%7C?hl=en",
             "rating": 5,
@@ -318,6 +346,7 @@
         },
         {
             "author_name": "Domenico Nava",
+            "author_image_url": "https://lh3.googleusercontent.com/a/ACg8ocLlGqh39D65jtEj7MBpXRjev3rGqCo7DKL320O0XJOs3lVK7w=s120-c-rp-mo-br100",
             "text": "Straightforward and always direct to the point as well as friendly and professional, Nikolay is very helpful in showing solutions to coding problems and enlightening on viable paths to approach a task. Thanks to him, I have been able to build solid coding grounding and apply the theoretical knowledge in real examples.",
             "url": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQ1d2VQbDNBRRAB!2m1!1s0x0:0x540abb3acdb54f09!3m1!1s2@1:CIHM0ogKEICAgID5wePl3AE%7CCgwIz_TjqQYQyIWzygE%7C?hl=en",
             "rating": 5,
@@ -328,6 +357,7 @@
         },
         {
             "author_name": "Daniel Dimitrov",
+            "author_image_url": "https://lh3.googleusercontent.com/a-/ALV-UjX7lYbOCSH0sbpznHhrZXsgHVdPla6zTgoIa55DotElRo-OJYXz=s120-c-rp-mo-br100",
             "text": "Attentive, skilled and understandable! Initially I went to Jedi Coders through a recommendation with relatively soft coding skills and I had practically given up on improving. However, after enrolling with them through the Coding Council for a few months, I can only give high praise to Nick! May the force be with you all!",
             "url": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQ1Z2E2VDZ3RRAB!2m1!1s0x0:0x540abb3acdb54f09!3m1!1s2@1:CIHM0ogKEICAgID5ga6T6wE%7CCgwIj4fjqQYQgLyLxgE%7C?hl=en",
             "rating": 5,
@@ -339,6 +369,7 @@
         },
         {
             "author_name": "Valentin Kostov",
+            "author_image_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7kJznlIZqyLwlhQe952Fb1-q7JbdDAS6WPN5f69Hofai5IPaF=s120-c-rp-mo-br100",
             "text": "Jedi coders caught my attention thanks to the original name. What made me stay was the accessibility of the knowledge in terms of teaching and relevant content material. I can only recommend!",
             "url": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQ1bnEzQ2NnEAE!2m1!1s0x0:0x540abb3acdb54f09!3m1!1s2@1:CIHM0ogKEICAgID5nq3Ccg%7CCgwIqLfgqQYQ-OzG6wI%7C?hl=en",
             "rating": 5,
@@ -349,6 +380,7 @@
         },
         {
             "author_name": "ziyue wang",
+            "author_image_url": "https://lh3.googleusercontent.com/a-/ALV-UjXgCjcrTB2OzUwERWNwQdqygPNttUWYUv1j0RkhfGTlQ9dOzos=s120-c-rp-mo-br100",
             "text": "I have been studied at Jedi Coder for nearly 6 months. Nick is a very patient tutor, whenever I texted him, he always responded very quick. I was completely new to coding but now I can work on some coding projects.",
             "url": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQ1bnVhaEt3EAE!2m1!1s0x0:0x540abb3acdb54f09!3m1!1s2@1:CIHM0ogKEICAgID5nuahKw%7CCgsI7aTgqQYQ0ImzQw%7C?hl=en",
             "rating": 5,
